@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 208 130" width="208" height="130">
+	<title>Nuevo proyecto</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 53px;fill: #ffffff;font-weight: 400;font-family: "OpenSans-Regular", "Open Sans" } 
+		.t1 { font-size: 11px;fill: #ffffff;font-weight: 400;font-family: "OpenSans-Regular", "Open Sans" } 
+	</style>
+	<text id="Bernando García" style="transform: matrix(1,-0.007,.007,1,27.922,61.82)" >
+		<tspan x="0" y="0" class="t0">B</tspan><tspan  y="0" class="t1">ernando</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="0" y="29.2" class="t0">G</tspan><tspan  y="29.2" class="t1">a</tspan><tspan  y="29.2" class="t1">r</tspan><tspan  y="29.2" class="t1">c</tspan><tspan  y="29.2" class="t1">í</tspan><tspan  y="29.2" class="t1">a
+</tspan>
+	</text>
+</svg>
